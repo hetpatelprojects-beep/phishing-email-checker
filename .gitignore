@@ -1,0 +1,13 @@
+data/
+*.eml
+*.csv
+*.zip
+*.ipynb
+master*
+model_v2.*
+vectorizer_v2.*
+cutoffs_v2.*
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
